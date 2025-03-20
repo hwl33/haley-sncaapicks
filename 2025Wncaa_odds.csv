@@ -1,0 +1,65 @@
+﻿teams,seed,region,odds,conf_rank
+UCLA,1,1,0.938,2
+NC State,2,1,0.813,1
+LSU,3,1,0.848,3
+Baylor,4,1,0.794,2
+Ole Miss,5,1,0.667,6
+Florida State,6,1,0.742,4
+Michigan State,7,1,0.7,5
+Richmond,8,1,0.818,1
+Georgia Tech ,9,1,0.688,8
+Harvard,10,1,0.852,3
+George Mason,11,1,0.844,2
+Ball State,12,1,0.794,1
+Grand Canyon,13,1,0.941,1
+San Diego State,14,1,0.735,4
+Vermont,15,1,0.636,2
+UC San Diego/Southern,16,1,0.588,1
+South Carolina,1,3,0.909,1
+Duke,2,3,0.788,3
+North Carolina,3,3,0.794,4
+Maryland,4,3,0.767,3
+Alabama,5,3,0.742,6
+West Virginia,6,3,0.774,4
+Vanderbilt,7,3,0.688,8
+Utah,8,3,0.733,4
+Indiana,9,3,0.613,8
+Oregon,10,3,0.663,8
+Columbia/Washington ,11,3,0.6,2
+Green Bay,12,3,0.853,1
+Norfolk State,13,3,0.882,1
+Oregon State,14,3,0.559,4
+Lehigh,15,3,0.818,1
+Tennessee Tech,16,3,0.839,1
+Texas,1,4,0.912,1
+TCU,2,4,0.912,1
+Notre Dame,3,4,0.839,1
+Ohio State,4,4,0.806,3
+Tennessee,5,4,0.71,8
+Michigan,6,4,0.688,5
+Louisville,7,4,0.677,4
+Illinois,8,4,0.7,5
+Creighton,9,4,0.813,2
+Nebraska,10,4,0.656,8
+Iowa State/Princeton ,11,4,0.667,7
+South Florida,12,4,0.697,3
+Montana State,13,4,0.909,1
+Stephen F. Austin,14,4,0.853,3
+Fairleigh Dickinson,15,4,0.906,1
+High Point/William & Mary ,16,4,0.6,2
+USC,1,2,0.903,1
+UConn,2,2,0.912,1
+Oklahoma,3,2,0.781,4
+Kentucky,4,2,0.759,4
+Kansas State,5,2,0.788,4
+Iowa,6,2,0.688,8
+Oklahoma State,7,2,0.806,3
+Cal,8,2,0.758,7
+Mississippi State,9,2,0.656,10
+South Dakota State ,10,2,0.906,1
+Murray State,11,2,0.781,1
+Fairfield,12,2,0.875,1
+Liberty,13,2,0.813,1
+Florida Gulf Coast,14,2,0.909,1
+Arkansas State,15,2,0.677,2
+UNC Greensboro,16,2,0.806,1
