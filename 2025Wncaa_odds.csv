@@ -25,7 +25,7 @@ Vanderbilt,7,3,0.688,8
 Utah,8,3,0.733,4
 Indiana,9,3,0.613,8
 Oregon,10,3,0.663,8
-Columbia/Washington ,11,3,0.6,2
+Columbia,11,3,0.793,2
 Green Bay,12,3,0.853,1
 Norfolk State,13,3,0.882,1
 Oregon State,14,3,0.559,4
@@ -46,7 +46,7 @@ South Florida,12,4,0.697,3
 Montana State,13,4,0.909,1
 Stephen F. Austin,14,4,0.853,3
 Fairleigh Dickinson,15,4,0.906,1
-High Point/William & Mary ,16,4,0.6,2
+William & Mary ,16,4,0.455,2
 USC,1,2,0.903,1
 UConn,2,2,0.912,1
 Oklahoma,3,2,0.781,4
